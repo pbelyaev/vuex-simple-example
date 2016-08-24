@@ -1,0 +1,16 @@
+{
+  "name": "vuex-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "^1.0.26",
+    "vuex": "^1.0.0-rc.2"
+  }
+}
